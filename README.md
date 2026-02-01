@@ -1,6 +1,7 @@
 # 👋 About Me
 
-I'm **Nabajyoti Pandey**, a data and AI engineer focused on building **agentic AI systems, retrieval-augmented generation (RAG) pipelines, and scalable machine learning platforms**.  
+I'm **Nabajyoti Pandey**, a data and AI engineer focused on building **agentic AI systems, retrieval-augmented generation (RAG) pipelines, and scalable machine learning platforms**.
+  
 A **Microsoft Azure Certified AI Engineer** and **Kaggle Notebook Expert**, I work at the intersection of GenAI, data engineering, and production ML.
 
 Over the past few years, I’ve engineered scalable data pipelines, deployed real-time risk and analytics systems, and built intelligent applications supporting use cases ranging from derivative clearing and HFT backtesting to ML-driven portfolio optimization.
