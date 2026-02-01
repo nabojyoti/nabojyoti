@@ -15,11 +15,15 @@ I’m particularly interested in designing **reliable, interpretable, and produc
 ### 🤖 Machine & Deep Learning
 
 ![Python](https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?&logo=PyTorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&logo=TensorFlow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?&logo=hugging-face&logoColor=white)
+
+> Built and deployed ML & deep learning models for predictive analytics, portfolio optimization, and NLP applications.
+
+---
 
 ### ✨ Generative AI
 
@@ -32,8 +36,10 @@ I’m particularly interested in designing **reliable, interpretable, and produc
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-4E8CDE?logo=chromadb&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-0078D4?logo=pinecone&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?logo=meta&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-3C3C3C?logo=llama&logoColor=white)
 
+> Designed agentic workflows, RAG pipelines, and vector-based retrieval systems for Generative AI applications.
+
+---
 
 ### 🛠️ Software Development
 
@@ -44,11 +50,22 @@ I’m particularly interested in designing **reliable, interpretable, and produc
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)
 
-### 🚀 API Development & Deployment
+> Experienced in software engineering, containerization, and scalable system design.
+
+---
+
+### 🚀 API Development, Deployment & CI/CD
 
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+
+> Built automated CI/CD pipelines, containerized applications, and provisioned cloud infrastructure using GitHub Actions, GitLab CI, Docker, and Terraform for scalable production deployments.
+
+---
 
 ### ☁️ Databases & Cloud Services
 
@@ -60,6 +77,9 @@ I’m particularly interested in designing **reliable, interpretable, and produc
 ![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?logo=microsoftazure&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?logo=openai&logoColor=white)
 
+> Managed cloud services, relational & NoSQL databases, and deployed AI workloads on multi-cloud environments.
+
+---
 
 ### 🧪 Data Engineering & Processing
 
@@ -68,6 +88,9 @@ I’m particularly interested in designing **reliable, interpretable, and produc
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+
+> Built scalable ETL/ELT pipelines, batch & streaming data workflows, and interactive analytics dashboards.
+
 
 ---
 
