@@ -1,10 +1,12 @@
 # 👋 About Me
 
-I'm **Nabajyoti Pandey**, a passionate data enthusiast with a keen interest in Generative AI, Machine Learning, and Data Engineering. My journey began with a curiosity about how data can drive decisions and has since evolved into building scalable data pipelines and intelligent applications.
+I'm **Nabajyoti Pandey**, a data and AI engineer focused on building **agentic AI systems, retrieval-augmented generation (RAG) pipelines, and scalable machine learning platforms**.  
+A **Microsoft Azure Certified AI Engineer** and **Kaggle Notebook Expert**, I work at the intersection of GenAI, data engineering, and production ML.
 
-I've spent the past few years engineering scalable data pipelines, deploying real-time risk models, and building interactive analytics dashboards — powering everything from derivative clearing and HFT backtesting to machine learning–based portfolio optimization.
+Over the past few years, I’ve engineered scalable data pipelines, deployed real-time risk and analytics systems, and built intelligent applications supporting use cases ranging from derivative clearing and HFT backtesting to ML-driven portfolio optimization.
 
-I'm particularly fascinated by the intersection of data and technology, aiming to harness this synergy to create impactful solutions.
+I’m particularly interested in designing **reliable, interpretable, and production-ready AI systems**, leveraging multi-agent architectures, orchestration frameworks, and cloud-native infrastructure to translate complex data into actionable intelligence.
+
 
 ---
 
@@ -23,11 +25,15 @@ I'm particularly fascinated by the intersection of data and technology, aiming t
 
 ![LangChain](https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-2E86C1?logo=crew&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-FF9900?logo=autogen&logoColor=white)
+![Model Context Protocol](https://img.shields.io/badge/MCP-5A5A5A?logo=openai&logoColor=white)
+![Agent--to--Agent](https://img.shields.io/badge/A2A-FF6F00?logo=apache&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-4E8CDE?logo=chromadb&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-0078D4?logo=pinecone&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?logo=meta&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-3C3C3C?logo=llama&logoColor=white)
-![RAGStack](https://img.shields.io/badge/RAGStack-FF6F00?logo=ragstack&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-FF9900?logo=autogen&logoColor=white)
+
 
 ### 🛠️ Software Development
 
@@ -51,6 +57,9 @@ I'm particularly fascinated by the intersection of data and technology, aiming t
 ![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?logo=mongodb&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?logo=microsoftazure&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?logo=openai&logoColor=white)
+
 
 ### 🧪 Data Engineering & Processing
 
@@ -63,6 +72,22 @@ I'm particularly fascinated by the intersection of data and technology, aiming t
 ---
 
 ## 📚 Projects
+
+### 🤖 Agentic Equity Research System  
+An AI-driven multi-agent equity research engine that autonomously gathers financial data, conducts analysis, and generates structured research reports for equities.  
+🔗 https://github.com/nabojyoti/agentic-equity-research-system
+
+### 🧠 Agentic RAG + A2A + MCP  
+A modular Retrieval-Augmented Generation system integrating agent-to-agent workflows and Model Context Protocol tooling to intelligently route queries, gather knowledge, and generate grounded responses.  
+🔗 https://github.com/nabojyoti/agentic-rag-a2a-mcp
+
+### 🛠️ AI Dev Agent  
+An autonomous AI assistant for developers that interprets tasks, generates code, and automates engineering workflows to boost productivity and streamline development.  
+🔗 https://github.com/nabojyoti/ai-dev-agent
+
+### 🔄 LangGraph Adaptive RAG  
+An adaptive RAG workflow using LangGraph to dynamically choose retrieval and generation strategies based on query complexity, improving relevance and answer quality.  
+🔗 https://github.com/nabojyoti/langgraph-adaptive-rag
 
 ### 📝 ProposalGenerator: Automated Proposal Letters for NGOs
 
@@ -83,6 +108,13 @@ An end-to-end data engineering project utilizing the IPL dataset. It encompasses
 🔗 [Repository](https://github.com/nabojyoti/ELT-IPL)
 
 ---
+
+## 🏆 Certifications & Achievements
+
+- 🎓 **Microsoft Certified: Azure AI Engineer Associate**
+- 📈 **Generative AI with Large Language Models, DeepLearning.AI**
+- 🧠 **Kaggle Notebook Expert**
+
 
 ## 📬 Let's Connect
 
