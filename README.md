@@ -99,19 +99,19 @@ I’m particularly interested in designing **reliable, interpretable, and produc
 
 ### 🤖 Agentic Equity Research System  
 An AI-driven multi-agent equity research engine that autonomously gathers financial data, conducts analysis, and generates structured research reports for equities.  
-🔗 https://github.com/nabojyoti/agentic-equity-research-system
+🔗 [Repository](https://github.com/nabojyoti/agentic-equity-research-system)
 
 ### 🧠 Agentic RAG + A2A + MCP  
 A modular Retrieval-Augmented Generation system integrating agent-to-agent workflows and Model Context Protocol tooling to intelligently route queries, gather knowledge, and generate grounded responses.  
-🔗 https://github.com/nabojyoti/agentic-rag-a2a-mcp
+🔗 [Repository](https://github.com/nabojyoti/agentic-rag-a2a-mcp)
 
 ### 🛠️ AI Dev Agent  
 An autonomous AI assistant for developers that interprets tasks, generates code, and automates engineering workflows to boost productivity and streamline development.  
-🔗 https://github.com/nabojyoti/ai-dev-agent
+🔗 [Repository](https://github.com/nabojyoti/ai-dev-agent)
 
 ### 🔄 LangGraph Adaptive RAG  
 An adaptive RAG workflow using LangGraph to dynamically choose retrieval and generation strategies based on query complexity, improving relevance and answer quality.  
-🔗 https://github.com/nabojyoti/langgraph-adaptive-rag
+🔗 [Repository](https://github.com/nabojyoti/langgraph-adaptive-rag)
 
 ### 📝 ProposalGenerator: Automated Proposal Letters for NGOs
 
